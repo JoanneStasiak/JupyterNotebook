@@ -25,7 +25,7 @@ os.chdir("F://Certainty Study//data")
 
 ```
 
-Open the data file we need to clean, then find all of the lists 
+Open the data file we need to clean, then find all of the lists that were saved to the datafile
 
 
 ```python
