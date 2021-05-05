@@ -34,3 +34,6 @@ You can go to [Jupyter's homepage](https://jupyter.org/install) to follow the in
     - from [Luke Chang's tutorial](https://dartbrains.org/content/intro.html)
  - [NiLearn - for fMRI image manip/vis](https://nbviewer.jupyter.org/github/JoanneStasiak/JupyterNotebook/blob/main/Imaging%20Notebooks/NiLearn%20Cambridge.ipynb)
     - from [Michael Notter's tutorial](https://github.com/miykael/workshop_cambridge/blob/master/notebooks/image_manipulation_nilearn.ipynb)
+
+### Another fantastic resource:
+#### [A Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
