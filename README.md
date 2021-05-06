@@ -26,7 +26,7 @@ You can go to [Jupyter's homepage](https://jupyter.org/install) to follow the in
 
 ### Jupyter Notebooks in this repository:
  - [Data Organization/Basic vis for certainty task](https://nbviewer.jupyter.org/github/JoanneStasiak/JupyterNotebook/blob/main/Data%20Org/CertaintyTask.ipynb)
- - [Moralizing Self-Regulation - very basic oyplot & stats](https://nbviewer.jupyter.org/github/JoanneStasiak/JupyterNotebook/blob/main/Statistics%20Notebooks/Moralizing%20Self-Reg%20Data-Python.ipynb)
+ - [Moralizing Self-Regulation - very basic pyplot & stats](https://nbviewer.jupyter.org/github/JoanneStasiak/JupyterNotebook/blob/main/Statistics%20Notebooks/Moralizing%20Self-Reg%20Data-Python.ipynb)
     - [Moralizing SR Social/Non-Social - in R](https://github.com/JoanneStasiak/JupyterNotebook/blob/main/R%20Notebooks/Moralizing%20Self-Reg%20Data-%20R.ipynb)
  - [Baseball Data - plots in python](https://nbviewer.jupyter.org/github/JoanneStasiak/JupyterNotebook/blob/main/Statistics%20Notebooks/Python-BaseballData.ipynb)
  - [Same Baseball Data in R](https://nbviewer.jupyter.org/github/JoanneStasiak/JupyterNotebook/blob/main/R%20Notebooks/R-BaseballData.ipynb)
