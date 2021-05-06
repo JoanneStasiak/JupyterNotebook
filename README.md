@@ -41,3 +41,5 @@ You can go to [Jupyter's homepage](https://jupyter.org/install) to follow the in
   - Also, [Bayesian Analysis in Python](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC2.ipynb)
     - Just one chapter in an online book by [Cameron Davidson-Pilon](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) 
 
+
+## For really big files, consider [Binder](https://mybinder.org/v2/gh/JoanneStasiak/JupyterNotebook/b1ae9b7e4fc24b10325d6564f86dfcb80eaf31cf)
