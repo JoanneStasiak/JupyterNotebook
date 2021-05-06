@@ -37,3 +37,6 @@ You can go to [Jupyter's homepage](https://jupyter.org/install) to follow the in
 
 ### Another fantastic resource:
 #### [A Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+  - Also, [Bayesian Analysis in Python](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC2.ipynb)
+    - Just one chapter in an online book by [Cameron Davidson-Pilon](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) 
+
