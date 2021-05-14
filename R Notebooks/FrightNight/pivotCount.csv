@@ -1,0 +1,15 @@
+Emotions,1,2,3,4,5,6,7
+Alert/Attentive,,1.0,,15.0,22.0,28.0,58.0
+Amused/Interested,,3.0,4.0,21.0,34.0,27.0,61.0
+Disgusted/Grossed Out,,,1.0,3.0,7.0,,5.0
+Excited/Enthused,,,1.0,6.0,22.0,18.0,34.0
+Fearful/Afraid,,2.0,4.0,14.0,14.0,20.0,16.0
+Fearful/Afraid*,89.0,31.0,33.0,38.0,18.0,7.0,2.0
+Hostile/Aggressive,,,1.0,,,1.0,
+Irritable/Annoyed,,2.0,2.0,8.0,8.0,4.0,4.0
+Nervous/Jittery,,1.0,1.0,17.0,16.0,17.0,18.0
+Overwhelmed,,,1.0,9.0,7.0,6.0,8.0
+Panicked,,,,5.0,6.0,4.0,10.0
+Shocked/Surprised,,,3.0,5.0,19.0,14.0,14.0
+Tense,,2.0,4.0,14.0,19.0,14.0,25.0
+Upset/Distressed,,,,2.0,4.0,4.0,4.0
