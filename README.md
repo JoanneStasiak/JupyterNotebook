@@ -24,9 +24,12 @@ How to use Python and R in Jupyter notebook, as well as how to integrate noteboo
 ## How do I get started using Jupyter Notebook?
 You can go to [Jupyter's homepage](https://jupyter.org/install) to follow the installation instructions. OR I would recommend using the [Anaconda Distribution](https://www.anaconda.com/products/individual) to install a GUI that would make life easier. 
 
+If you're not interested in downloading any software, try out [Google CoLab](https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Data_Cleaning/Data_Cleaning_using_Python_with_Pandas_Library.ipynb)
+
 ### Jupyter Notebooks in this repository:
  - [Data Organization/Basic vis for certainty task](https://nbviewer.jupyter.org/github/JoanneStasiak/JupyterNotebook/blob/main/Data%20Org/CertaintyTask.ipynb)
- - [Moralizing Self-Regulation - very basic plot & stats](https://nbviewer.jupyter.org/github/JoanneStasiak/JupyterNotebook/blob/main/Statistics%20Notebooks/Moralizing%20Self-Reg%20Data-Python.ipynb)
+ - [Moralizing Self-Regulation - very basic pyplot & stats](https://nbviewer.jupyter.org/github/JoanneStasiak/JupyterNotebook/blob/main/Statistics%20Notebooks/Moralizing%20Self-Reg%20Data-Python.ipynb)
+    - [Moralizing SR Social/Non-Social - in R](https://github.com/JoanneStasiak/JupyterNotebook/blob/main/R%20Notebooks/Moralizing%20Self-Reg%20Data-%20R.ipynb)
  - [Baseball Data - plots in python](https://nbviewer.jupyter.org/github/JoanneStasiak/JupyterNotebook/blob/main/Statistics%20Notebooks/Python-BaseballData.ipynb)
  - [Same Baseball Data in R](https://nbviewer.jupyter.org/github/JoanneStasiak/JupyterNotebook/blob/main/R%20Notebooks/R-BaseballData.ipynb)
  - [Dog Data - interactive plots in python](https://nbviewer.jupyter.org/github/JoanneStasiak/JupyterNotebook/blob/main/Statistics%20Notebooks/Data%20Vis/Interactive%20Plots.ipynb)
@@ -34,3 +37,11 @@ You can go to [Jupyter's homepage](https://jupyter.org/install) to follow the in
     - from [Luke Chang's tutorial](https://dartbrains.org/content/intro.html)
  - [NiLearn - for fMRI image manip/vis](https://nbviewer.jupyter.org/github/JoanneStasiak/JupyterNotebook/blob/main/Imaging%20Notebooks/NiLearn%20Cambridge.ipynb)
     - from [Michael Notter's tutorial](https://github.com/miykael/workshop_cambridge/blob/master/notebooks/image_manipulation_nilearn.ipynb)
+
+### Another fantastic resource:
+#### [A Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+  - Also, [Bayesian Analysis in Python](https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC2.ipynb)
+    - Just one chapter in an online book by [Cameron Davidson-Pilon](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) 
+
+
+## For really big files, consider [Binder](https://mybinder.org/v2/gh/JoanneStasiak/JupyterNotebook/b1ae9b7e4fc24b10325d6564f86dfcb80eaf31cf)
